@@ -224,6 +224,15 @@ p {
     padding-left: 1000px;
     padding-right: 1000px;
   }
+  .titles {
+    color: #eee;
+    font-size: 1.2em;
+    text-align: center;
+    margin: 1em 0;
+
+    font-family: 'Courier new';
+  font-weight: 200;
+  }
 
   .footer {
     color: #eee;
