@@ -170,12 +170,12 @@ a:hover {
   overflow-x: visible;
   overflow-y: visible;
   margin-left: auto;
-  padding-left: 0px;
+  margin-right:auto;
   float: none;
-  max-width: 100%;
+  max-width: 600px;
   
   margin-bottom: 2em;
-  border-radius: 16px;
+  border-radius: 10px;
 }
 .linkedinlink {
   display: block;
@@ -191,7 +191,7 @@ a:hover {
 }
 .container-links {
   display: block;
-  margin: 20px auto -10px;
+  margin-left: auto;
 }
 .blocklinks {
   display: block;
